@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Angular.UI.Bootstrap</id>
+    <title>AngularJS UI Bootstrap</title>
+    <version>0.11.0</version>
+    <authors>AngularUI Team</authors>
+    <owners>xt0rted</owners>
+    <licenseUrl>https://github.com/angular-ui/bootstrap/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://angular-ui.github.io/bootstrap/</projectUrl>
+    <iconUrl>https://secure.gravatar.com/avatar/46d07086561c66caae16ce4d96bfd345?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Bootstrap components written in pure AngularJS</description>
+    <summary>Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!</summary>
+    <releaseNotes>https://github.com/angular-ui/bootstrap/blob/master/CHANGELOG.md#0110-2014-05-01</releaseNotes>
+    <copyright>https://github.com/angular-ui/bootstrap/blob/master/LICENSE</copyright>
+    <tags>angular angularjs angular-ui bootstrap</tags>
+  </metadata>
+  <files>
+    <file src="ui-bootstrap.js" target="content\Scripts\angular-ui\ui-bootstrap.js" />
+    <file src="ui-bootstrap.min.js" target="content\Scripts\angular-ui\ui-bootstrap.min.js" />
+    <file src="ui-bootstrap-tpls.js" target="content\Scripts\angular-ui\ui-bootstrap-tpls.js" />
+    <file src="ui-bootstrap-tpls.min.js" target="content\Scripts\angular-ui\ui-bootstrap-tpls.min.js" />
+  </files>
+</package>
